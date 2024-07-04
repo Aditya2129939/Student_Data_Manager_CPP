@@ -29,9 +29,4 @@ As we all know, CSV(Comma Separated Values) files are easier to share as it can 
 ![View Records](screenshots/view_record.png "View Records")
 ![Delete Record](screenshots/delete_record.png "Delete Record")
 
-### To get and run this program, run these commands in your terminal:
 
-1.  git clone git@github.com:Bishnukt/Student_Data_Manager.git
-1.  cd Student_Data_Manager
-1.  g++ -o sdm sdm.cpp admin.cpp load.cpp
-1.  ./sdm
